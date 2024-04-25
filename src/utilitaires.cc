@@ -18,7 +18,7 @@ bool promotion_valide(string const & input){
 }
 
 bool entree_mouvement(string const & input){
-    regex pattern("^ *[a-h][1-8][a-h][1-8] *$|^ */(quit|draw|resign) *$");
+    regex pattern("^ *[a-h][1-8][a-h][1-8] *$|^ */(quit|draw|resign|show) *$");
     return regex_match(input, pattern);
 }
 
@@ -39,6 +39,11 @@ bool entree_sortie(string const & input){
 
 bool entree_egalite(string const & input){
     regex pattern("/draw\\s*");
+    return regex_match(input,pattern);
+}
+
+bool entree_show(string const & input){
+    regex pattern("/show\\s*");
     return regex_match(input,pattern);
 }
 

@@ -17,7 +17,7 @@ void Pos::setX(int x) { this->x = x; }
 void Pos::setY(int y) { this->y = y; }
 
 void Pos::affiche_xy() const{
-    cout << "x = " << to_string(this->getX()) 
+    clog << "x = " << to_string(this->getX()) 
             << " y = " << to_string(this->getY()) << endl;
 }
 

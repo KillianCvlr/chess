@@ -52,6 +52,14 @@ bool entree_sortie(const string& input);
 bool entree_egalite(const string& input);
 
 /**
+ * @brief Vérifie si une entrée donnée correspond à une demande d'affichage ie
+ * '/show'.
+ * @param input Chaîne de caractères représentant l'entrée à vérifier.
+ * @return true si l'entrée correspond à une demande d'affichage, false sinon.
+ */
+bool entree_show(const string& input);
+
+/**
  * @brief Vérifie si une entrée donnée correspond à un abandon is '/resign'.
  * @param input Chaîne de caractères représentant l'entrée à vérifier.
  * @return true si l'entrée correspond à un abandon, false sinon.

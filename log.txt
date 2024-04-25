@@ -1,0 +1,1528 @@
+C'est au joueur blanc de jouer
+x = 0 y = 0
+x = 0 y = 0
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 0
+x = 0 y = 1
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 0
+x = 0 y = 2
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 0
+x = 0 y = 3
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 0
+x = 0 y = 4
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 0
+x = 0 y = 5
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 0
+x = 0 y = 6
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 0
+x = 0 y = 7
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 0
+x = 1 y = 0
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 0
+x = 1 y = 1
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 0
+x = 1 y = 2
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 0
+x = 1 y = 3
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 0
+x = 1 y = 4
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 0
+x = 1 y = 5
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 0
+x = 1 y = 6
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 0
+x = 1 y = 7
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 0
+x = 2 y = 0
+Verification de la validité du coup passée !
+Passage impossible !
+x = 0 y = 0
+x = 2 y = 1
+Mouvement invalide !
+x = 0 y = 0
+x = 2 y = 2
+Mouvement invalide !
+x = 0 y = 0
+x = 2 y = 3
+Mouvement invalide !
+x = 0 y = 0
+x = 2 y = 4
+Mouvement invalide !
+x = 0 y = 0
+x = 2 y = 5
+Mouvement invalide !
+x = 0 y = 0
+x = 2 y = 6
+Mouvement invalide !
+x = 0 y = 0
+x = 2 y = 7
+Mouvement invalide !
+x = 0 y = 0
+x = 3 y = 0
+Verification de la validité du coup passée !
+Passage impossible !
+x = 0 y = 0
+x = 3 y = 1
+Mouvement invalide !
+x = 0 y = 0
+x = 3 y = 2
+Mouvement invalide !
+x = 0 y = 0
+x = 3 y = 3
+Mouvement invalide !
+x = 0 y = 0
+x = 3 y = 4
+Mouvement invalide !
+x = 0 y = 0
+x = 3 y = 5
+Mouvement invalide !
+x = 0 y = 0
+x = 3 y = 6
+Mouvement invalide !
+x = 0 y = 0
+x = 3 y = 7
+Mouvement invalide !
+x = 0 y = 0
+x = 4 y = 0
+Verification de la validité du coup passée !
+Passage impossible !
+x = 0 y = 0
+x = 4 y = 1
+Mouvement invalide !
+x = 0 y = 0
+x = 4 y = 2
+Mouvement invalide !
+x = 0 y = 0
+x = 4 y = 3
+Mouvement invalide !
+x = 0 y = 0
+x = 4 y = 4
+Mouvement invalide !
+x = 0 y = 0
+x = 4 y = 5
+Mouvement invalide !
+x = 0 y = 0
+x = 4 y = 6
+Mouvement invalide !
+x = 0 y = 0
+x = 4 y = 7
+Mouvement invalide !
+x = 0 y = 0
+x = 5 y = 0
+Verification de la validité du coup passée !
+Passage impossible !
+x = 0 y = 0
+x = 5 y = 1
+Mouvement invalide !
+x = 0 y = 0
+x = 5 y = 2
+Mouvement invalide !
+x = 0 y = 0
+x = 5 y = 3
+Mouvement invalide !
+x = 0 y = 0
+x = 5 y = 4
+Mouvement invalide !
+x = 0 y = 0
+x = 5 y = 5
+Mouvement invalide !
+x = 0 y = 0
+x = 5 y = 6
+Mouvement invalide !
+x = 0 y = 0
+x = 5 y = 7
+Mouvement invalide !
+x = 0 y = 0
+x = 6 y = 0
+Verification de la validité du coup passée !
+Passage impossible !
+x = 0 y = 0
+x = 6 y = 1
+Mouvement invalide !
+x = 0 y = 0
+x = 6 y = 2
+Mouvement invalide !
+x = 0 y = 0
+x = 6 y = 3
+Mouvement invalide !
+x = 0 y = 0
+x = 6 y = 4
+Mouvement invalide !
+x = 0 y = 0
+x = 6 y = 5
+Mouvement invalide !
+x = 0 y = 0
+x = 6 y = 6
+Mouvement invalide !
+x = 0 y = 0
+x = 6 y = 7
+Mouvement invalide !
+x = 0 y = 0
+x = 7 y = 0
+Verification de la validité du coup passée !
+Passage impossible !
+x = 0 y = 0
+x = 7 y = 1
+Mouvement invalide !
+x = 0 y = 0
+x = 7 y = 2
+Mouvement invalide !
+x = 0 y = 0
+x = 7 y = 3
+Mouvement invalide !
+x = 0 y = 0
+x = 7 y = 4
+Mouvement invalide !
+x = 0 y = 0
+x = 7 y = 5
+Mouvement invalide !
+x = 0 y = 0
+x = 7 y = 6
+Mouvement invalide !
+x = 0 y = 0
+x = 7 y = 7
+Mouvement invalide !
+x = 0 y = 1
+x = 0 y = 0
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 1
+x = 0 y = 1
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 1
+x = 0 y = 2
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 1
+x = 0 y = 3
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 1
+x = 0 y = 4
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 1
+x = 0 y = 5
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 1
+x = 0 y = 6
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 1
+x = 0 y = 7
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 1
+x = 1 y = 0
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 1
+x = 1 y = 1
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 1
+x = 1 y = 2
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 1
+x = 1 y = 3
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 1
+x = 1 y = 4
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 1
+x = 1 y = 5
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 1
+x = 1 y = 6
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 1
+x = 1 y = 7
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 1
+x = 2 y = 0
+Verification de la validité du coup passée !
+Passage libre !
+Ne met pas en echec !
+Attente du coup :  mouvement classique
+x = 0 y = 0
+x = 1 y = 0
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 0
+x = 0 y = 0
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 0
+x = 0 y = 1
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 0
+x = 0 y = 2
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 0
+x = 0 y = 3
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 0
+x = 0 y = 4
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 0
+x = 0 y = 5
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 0
+x = 0 y = 6
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 0
+x = 0 y = 7
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 0
+x = 1 y = 0
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 0
+x = 1 y = 1
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 0
+x = 1 y = 2
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 0
+x = 1 y = 3
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 0
+x = 1 y = 4
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 0
+x = 1 y = 5
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 0
+x = 1 y = 6
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 0
+x = 1 y = 7
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 0
+x = 2 y = 0
+Verification de la validité du coup passée !
+Passage impossible !
+x = 0 y = 0
+x = 2 y = 1
+Mouvement invalide !
+x = 0 y = 0
+x = 2 y = 2
+Mouvement invalide !
+x = 0 y = 0
+x = 2 y = 3
+Mouvement invalide !
+x = 0 y = 0
+x = 2 y = 4
+Mouvement invalide !
+x = 0 y = 0
+x = 2 y = 5
+Mouvement invalide !
+x = 0 y = 0
+x = 2 y = 6
+Mouvement invalide !
+x = 0 y = 0
+x = 2 y = 7
+Mouvement invalide !
+x = 0 y = 0
+x = 3 y = 0
+Verification de la validité du coup passée !
+Passage impossible !
+x = 0 y = 0
+x = 3 y = 1
+Mouvement invalide !
+x = 0 y = 0
+x = 3 y = 2
+Mouvement invalide !
+x = 0 y = 0
+x = 3 y = 3
+Mouvement invalide !
+x = 0 y = 0
+x = 3 y = 4
+Mouvement invalide !
+x = 0 y = 0
+x = 3 y = 5
+Mouvement invalide !
+x = 0 y = 0
+x = 3 y = 6
+Mouvement invalide !
+x = 0 y = 0
+x = 3 y = 7
+Mouvement invalide !
+x = 0 y = 0
+x = 4 y = 0
+Verification de la validité du coup passée !
+Passage impossible !
+x = 0 y = 0
+x = 4 y = 1
+Mouvement invalide !
+x = 0 y = 0
+x = 4 y = 2
+Mouvement invalide !
+x = 0 y = 0
+x = 4 y = 3
+Mouvement invalide !
+x = 0 y = 0
+x = 4 y = 4
+Mouvement invalide !
+x = 0 y = 0
+x = 4 y = 5
+Mouvement invalide !
+x = 0 y = 0
+x = 4 y = 6
+Mouvement invalide !
+x = 0 y = 0
+x = 4 y = 7
+Mouvement invalide !
+x = 0 y = 0
+x = 5 y = 0
+Verification de la validité du coup passée !
+Passage impossible !
+x = 0 y = 0
+x = 5 y = 1
+Mouvement invalide !
+x = 0 y = 0
+x = 5 y = 2
+Mouvement invalide !
+x = 0 y = 0
+x = 5 y = 3
+Mouvement invalide !
+x = 0 y = 0
+x = 5 y = 4
+Mouvement invalide !
+x = 0 y = 0
+x = 5 y = 5
+Mouvement invalide !
+x = 0 y = 0
+x = 5 y = 6
+Mouvement invalide !
+x = 0 y = 0
+x = 5 y = 7
+Mouvement invalide !
+x = 0 y = 0
+x = 6 y = 0
+Verification de la validité du coup passée !
+Passage impossible !
+x = 0 y = 0
+x = 6 y = 1
+Mouvement invalide !
+x = 0 y = 0
+x = 6 y = 2
+Mouvement invalide !
+x = 0 y = 0
+x = 6 y = 3
+Mouvement invalide !
+x = 0 y = 0
+x = 6 y = 4
+Mouvement invalide !
+x = 0 y = 0
+x = 6 y = 5
+Mouvement invalide !
+x = 0 y = 0
+x = 6 y = 6
+Mouvement invalide !
+x = 0 y = 0
+x = 6 y = 7
+Mouvement invalide !
+x = 0 y = 0
+x = 7 y = 0
+Verification de la validité du coup passée !
+Passage impossible !
+x = 0 y = 0
+x = 7 y = 1
+Mouvement invalide !
+x = 0 y = 0
+x = 7 y = 2
+Mouvement invalide !
+x = 0 y = 0
+x = 7 y = 3
+Mouvement invalide !
+x = 0 y = 0
+x = 7 y = 4
+Mouvement invalide !
+x = 0 y = 0
+x = 7 y = 5
+Mouvement invalide !
+x = 0 y = 0
+x = 7 y = 6
+Mouvement invalide !
+x = 0 y = 0
+x = 7 y = 7
+Mouvement invalide !
+x = 0 y = 1
+x = 0 y = 0
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 1
+x = 0 y = 1
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 1
+x = 0 y = 2
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 1
+x = 0 y = 3
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 1
+x = 0 y = 4
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 1
+x = 0 y = 5
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 1
+x = 0 y = 6
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 1
+x = 0 y = 7
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 1
+x = 1 y = 0
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 1
+x = 1 y = 1
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 1
+x = 1 y = 2
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 1
+x = 1 y = 3
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 1
+x = 1 y = 4
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 1
+x = 1 y = 5
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 1
+x = 1 y = 6
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 1
+x = 1 y = 7
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 1
+x = 2 y = 0
+Verification de la validité du coup passée !
+Passage libre !
+Ne met pas en echec !
+Attente du coup :  L'entrée n'est pas valide !
+Attente du coup :  mouvement classique
+x = 1 y = 0
+x = 2 y = 0
+Verification de la validité du coup passée !
+Passage libre !
+Ne met pas en echec !
+Piece déplacée !
+C'est au joueur noir de jouer
+x = 7 y = 0
+x = 0 y = 0
+Verification de la validité du coup passée !
+Passage impossible !
+x = 7 y = 0
+x = 0 y = 1
+Mouvement invalide !
+x = 7 y = 0
+x = 0 y = 2
+Mouvement invalide !
+x = 7 y = 0
+x = 0 y = 3
+Mouvement invalide !
+x = 7 y = 0
+x = 0 y = 4
+Mouvement invalide !
+x = 7 y = 0
+x = 0 y = 5
+Mouvement invalide !
+x = 7 y = 0
+x = 0 y = 6
+Mouvement invalide !
+x = 7 y = 0
+x = 0 y = 7
+Mouvement invalide !
+x = 7 y = 0
+x = 1 y = 0
+Verification de la validité du coup passée !
+Passage impossible !
+x = 7 y = 0
+x = 1 y = 1
+Mouvement invalide !
+x = 7 y = 0
+x = 1 y = 2
+Mouvement invalide !
+x = 7 y = 0
+x = 1 y = 3
+Mouvement invalide !
+x = 7 y = 0
+x = 1 y = 4
+Mouvement invalide !
+x = 7 y = 0
+x = 1 y = 5
+Mouvement invalide !
+x = 7 y = 0
+x = 1 y = 6
+Mouvement invalide !
+x = 7 y = 0
+x = 1 y = 7
+Mouvement invalide !
+x = 7 y = 0
+x = 2 y = 0
+Verification de la validité du coup passée !
+Passage impossible !
+x = 7 y = 0
+x = 2 y = 1
+Mouvement invalide !
+x = 7 y = 0
+x = 2 y = 2
+Mouvement invalide !
+x = 7 y = 0
+x = 2 y = 3
+Mouvement invalide !
+x = 7 y = 0
+x = 2 y = 4
+Mouvement invalide !
+x = 7 y = 0
+x = 2 y = 5
+Mouvement invalide !
+x = 7 y = 0
+x = 2 y = 6
+Mouvement invalide !
+x = 7 y = 0
+x = 2 y = 7
+Mouvement invalide !
+x = 7 y = 0
+x = 3 y = 0
+Verification de la validité du coup passée !
+Passage impossible !
+x = 7 y = 0
+x = 3 y = 1
+Mouvement invalide !
+x = 7 y = 0
+x = 3 y = 2
+Mouvement invalide !
+x = 7 y = 0
+x = 3 y = 3
+Mouvement invalide !
+x = 7 y = 0
+x = 3 y = 4
+Mouvement invalide !
+x = 7 y = 0
+x = 3 y = 5
+Mouvement invalide !
+x = 7 y = 0
+x = 3 y = 6
+Mouvement invalide !
+x = 7 y = 0
+x = 3 y = 7
+Mouvement invalide !
+x = 7 y = 0
+x = 4 y = 0
+Verification de la validité du coup passée !
+Passage impossible !
+x = 7 y = 0
+x = 4 y = 1
+Mouvement invalide !
+x = 7 y = 0
+x = 4 y = 2
+Mouvement invalide !
+x = 7 y = 0
+x = 4 y = 3
+Mouvement invalide !
+x = 7 y = 0
+x = 4 y = 4
+Mouvement invalide !
+x = 7 y = 0
+x = 4 y = 5
+Mouvement invalide !
+x = 7 y = 0
+x = 4 y = 6
+Mouvement invalide !
+x = 7 y = 0
+x = 4 y = 7
+Mouvement invalide !
+x = 7 y = 0
+x = 5 y = 0
+Verification de la validité du coup passée !
+Passage impossible !
+x = 7 y = 0
+x = 5 y = 1
+Mouvement invalide !
+x = 7 y = 0
+x = 5 y = 2
+Mouvement invalide !
+x = 7 y = 0
+x = 5 y = 3
+Mouvement invalide !
+x = 7 y = 0
+x = 5 y = 4
+Mouvement invalide !
+x = 7 y = 0
+x = 5 y = 5
+Mouvement invalide !
+x = 7 y = 0
+x = 5 y = 6
+Mouvement invalide !
+x = 7 y = 0
+x = 5 y = 7
+Mouvement invalide !
+x = 7 y = 0
+x = 6 y = 0
+La case de destination est dejà occupée par une de vos pièce !
+x = 7 y = 0
+x = 6 y = 1
+La case de destination est dejà occupée par une de vos pièce !
+x = 7 y = 0
+x = 6 y = 2
+La case de destination est dejà occupée par une de vos pièce !
+x = 7 y = 0
+x = 6 y = 3
+La case de destination est dejà occupée par une de vos pièce !
+x = 7 y = 0
+x = 6 y = 4
+La case de destination est dejà occupée par une de vos pièce !
+x = 7 y = 0
+x = 6 y = 5
+La case de destination est dejà occupée par une de vos pièce !
+x = 7 y = 0
+x = 6 y = 6
+La case de destination est dejà occupée par une de vos pièce !
+x = 7 y = 0
+x = 6 y = 7
+La case de destination est dejà occupée par une de vos pièce !
+x = 7 y = 0
+x = 7 y = 0
+La case de destination est dejà occupée par une de vos pièce !
+x = 7 y = 0
+x = 7 y = 1
+La case de destination est dejà occupée par une de vos pièce !
+x = 7 y = 0
+x = 7 y = 2
+La case de destination est dejà occupée par une de vos pièce !
+x = 7 y = 0
+x = 7 y = 3
+La case de destination est dejà occupée par une de vos pièce !
+x = 7 y = 0
+x = 7 y = 4
+La case de destination est dejà occupée par une de vos pièce !
+x = 7 y = 0
+x = 7 y = 5
+La case de destination est dejà occupée par une de vos pièce !
+x = 7 y = 0
+x = 7 y = 6
+La case de destination est dejà occupée par une de vos pièce !
+x = 7 y = 0
+x = 7 y = 7
+La case de destination est dejà occupée par une de vos pièce !
+x = 7 y = 1
+x = 0 y = 0
+Mouvement invalide !
+x = 7 y = 1
+x = 0 y = 1
+Mouvement invalide !
+x = 7 y = 1
+x = 0 y = 2
+Mouvement invalide !
+x = 7 y = 1
+x = 0 y = 3
+Mouvement invalide !
+x = 7 y = 1
+x = 0 y = 4
+Mouvement invalide !
+x = 7 y = 1
+x = 0 y = 5
+Mouvement invalide !
+x = 7 y = 1
+x = 0 y = 6
+Mouvement invalide !
+x = 7 y = 1
+x = 0 y = 7
+Mouvement invalide !
+x = 7 y = 1
+x = 1 y = 0
+Mouvement invalide !
+x = 7 y = 1
+x = 1 y = 1
+Mouvement invalide !
+x = 7 y = 1
+x = 1 y = 2
+Mouvement invalide !
+x = 7 y = 1
+x = 1 y = 3
+Mouvement invalide !
+x = 7 y = 1
+x = 1 y = 4
+Mouvement invalide !
+x = 7 y = 1
+x = 1 y = 5
+Mouvement invalide !
+x = 7 y = 1
+x = 1 y = 6
+Mouvement invalide !
+x = 7 y = 1
+x = 1 y = 7
+Mouvement invalide !
+x = 7 y = 1
+x = 2 y = 0
+Mouvement invalide !
+x = 7 y = 1
+x = 2 y = 1
+Mouvement invalide !
+x = 7 y = 1
+x = 2 y = 2
+Mouvement invalide !
+x = 7 y = 1
+x = 2 y = 3
+Mouvement invalide !
+x = 7 y = 1
+x = 2 y = 4
+Mouvement invalide !
+x = 7 y = 1
+x = 2 y = 5
+Mouvement invalide !
+x = 7 y = 1
+x = 2 y = 6
+Mouvement invalide !
+x = 7 y = 1
+x = 2 y = 7
+Mouvement invalide !
+x = 7 y = 1
+x = 3 y = 0
+Mouvement invalide !
+x = 7 y = 1
+x = 3 y = 1
+Mouvement invalide !
+x = 7 y = 1
+x = 3 y = 2
+Mouvement invalide !
+x = 7 y = 1
+x = 3 y = 3
+Mouvement invalide !
+x = 7 y = 1
+x = 3 y = 4
+Mouvement invalide !
+x = 7 y = 1
+x = 3 y = 5
+Mouvement invalide !
+x = 7 y = 1
+x = 3 y = 6
+Mouvement invalide !
+x = 7 y = 1
+x = 3 y = 7
+Mouvement invalide !
+x = 7 y = 1
+x = 4 y = 0
+Mouvement invalide !
+x = 7 y = 1
+x = 4 y = 1
+Mouvement invalide !
+x = 7 y = 1
+x = 4 y = 2
+Mouvement invalide !
+x = 7 y = 1
+x = 4 y = 3
+Mouvement invalide !
+x = 7 y = 1
+x = 4 y = 4
+Mouvement invalide !
+x = 7 y = 1
+x = 4 y = 5
+Mouvement invalide !
+x = 7 y = 1
+x = 4 y = 6
+Mouvement invalide !
+x = 7 y = 1
+x = 4 y = 7
+Mouvement invalide !
+x = 7 y = 1
+x = 5 y = 0
+Verification de la validité du coup passée !
+Passage libre !
+Ne met pas en echec !
+Attente du coup :  mouvement classique
+x = 0 y = 1
+x = 1 y = 1
+x = 7 y = 0
+x = 0 y = 0
+Verification de la validité du coup passée !
+Passage impossible !
+x = 7 y = 0
+x = 0 y = 1
+Mouvement invalide !
+x = 7 y = 0
+x = 0 y = 2
+Mouvement invalide !
+x = 7 y = 0
+x = 0 y = 3
+Mouvement invalide !
+x = 7 y = 0
+x = 0 y = 4
+Mouvement invalide !
+x = 7 y = 0
+x = 0 y = 5
+Mouvement invalide !
+x = 7 y = 0
+x = 0 y = 6
+Mouvement invalide !
+x = 7 y = 0
+x = 0 y = 7
+Mouvement invalide !
+x = 7 y = 0
+x = 1 y = 0
+Verification de la validité du coup passée !
+Passage impossible !
+x = 7 y = 0
+x = 1 y = 1
+Mouvement invalide !
+x = 7 y = 0
+x = 1 y = 2
+Mouvement invalide !
+x = 7 y = 0
+x = 1 y = 3
+Mouvement invalide !
+x = 7 y = 0
+x = 1 y = 4
+Mouvement invalide !
+x = 7 y = 0
+x = 1 y = 5
+Mouvement invalide !
+x = 7 y = 0
+x = 1 y = 6
+Mouvement invalide !
+x = 7 y = 0
+x = 1 y = 7
+Mouvement invalide !
+x = 7 y = 0
+x = 2 y = 0
+Verification de la validité du coup passée !
+Passage impossible !
+x = 7 y = 0
+x = 2 y = 1
+Mouvement invalide !
+x = 7 y = 0
+x = 2 y = 2
+Mouvement invalide !
+x = 7 y = 0
+x = 2 y = 3
+Mouvement invalide !
+x = 7 y = 0
+x = 2 y = 4
+Mouvement invalide !
+x = 7 y = 0
+x = 2 y = 5
+Mouvement invalide !
+x = 7 y = 0
+x = 2 y = 6
+Mouvement invalide !
+x = 7 y = 0
+x = 2 y = 7
+Mouvement invalide !
+x = 7 y = 0
+x = 3 y = 0
+Verification de la validité du coup passée !
+Passage impossible !
+x = 7 y = 0
+x = 3 y = 1
+Mouvement invalide !
+x = 7 y = 0
+x = 3 y = 2
+Mouvement invalide !
+x = 7 y = 0
+x = 3 y = 3
+Mouvement invalide !
+x = 7 y = 0
+x = 3 y = 4
+Mouvement invalide !
+x = 7 y = 0
+x = 3 y = 5
+Mouvement invalide !
+x = 7 y = 0
+x = 3 y = 6
+Mouvement invalide !
+x = 7 y = 0
+x = 3 y = 7
+Mouvement invalide !
+x = 7 y = 0
+x = 4 y = 0
+Verification de la validité du coup passée !
+Passage impossible !
+x = 7 y = 0
+x = 4 y = 1
+Mouvement invalide !
+x = 7 y = 0
+x = 4 y = 2
+Mouvement invalide !
+x = 7 y = 0
+x = 4 y = 3
+Mouvement invalide !
+x = 7 y = 0
+x = 4 y = 4
+Mouvement invalide !
+x = 7 y = 0
+x = 4 y = 5
+Mouvement invalide !
+x = 7 y = 0
+x = 4 y = 6
+Mouvement invalide !
+x = 7 y = 0
+x = 4 y = 7
+Mouvement invalide !
+x = 7 y = 0
+x = 5 y = 0
+Verification de la validité du coup passée !
+Passage impossible !
+x = 7 y = 0
+x = 5 y = 1
+Mouvement invalide !
+x = 7 y = 0
+x = 5 y = 2
+Mouvement invalide !
+x = 7 y = 0
+x = 5 y = 3
+Mouvement invalide !
+x = 7 y = 0
+x = 5 y = 4
+Mouvement invalide !
+x = 7 y = 0
+x = 5 y = 5
+Mouvement invalide !
+x = 7 y = 0
+x = 5 y = 6
+Mouvement invalide !
+x = 7 y = 0
+x = 5 y = 7
+Mouvement invalide !
+x = 7 y = 0
+x = 6 y = 0
+La case de destination est dejà occupée par une de vos pièce !
+x = 7 y = 0
+x = 6 y = 1
+La case de destination est dejà occupée par une de vos pièce !
+x = 7 y = 0
+x = 6 y = 2
+La case de destination est dejà occupée par une de vos pièce !
+x = 7 y = 0
+x = 6 y = 3
+La case de destination est dejà occupée par une de vos pièce !
+x = 7 y = 0
+x = 6 y = 4
+La case de destination est dejà occupée par une de vos pièce !
+x = 7 y = 0
+x = 6 y = 5
+La case de destination est dejà occupée par une de vos pièce !
+x = 7 y = 0
+x = 6 y = 6
+La case de destination est dejà occupée par une de vos pièce !
+x = 7 y = 0
+x = 6 y = 7
+La case de destination est dejà occupée par une de vos pièce !
+x = 7 y = 0
+x = 7 y = 0
+La case de destination est dejà occupée par une de vos pièce !
+x = 7 y = 0
+x = 7 y = 1
+La case de destination est dejà occupée par une de vos pièce !
+x = 7 y = 0
+x = 7 y = 2
+La case de destination est dejà occupée par une de vos pièce !
+x = 7 y = 0
+x = 7 y = 3
+La case de destination est dejà occupée par une de vos pièce !
+x = 7 y = 0
+x = 7 y = 4
+La case de destination est dejà occupée par une de vos pièce !
+x = 7 y = 0
+x = 7 y = 5
+La case de destination est dejà occupée par une de vos pièce !
+x = 7 y = 0
+x = 7 y = 6
+La case de destination est dejà occupée par une de vos pièce !
+x = 7 y = 0
+x = 7 y = 7
+La case de destination est dejà occupée par une de vos pièce !
+x = 7 y = 1
+x = 0 y = 0
+Mouvement invalide !
+x = 7 y = 1
+x = 0 y = 1
+Mouvement invalide !
+x = 7 y = 1
+x = 0 y = 2
+Mouvement invalide !
+x = 7 y = 1
+x = 0 y = 3
+Mouvement invalide !
+x = 7 y = 1
+x = 0 y = 4
+Mouvement invalide !
+x = 7 y = 1
+x = 0 y = 5
+Mouvement invalide !
+x = 7 y = 1
+x = 0 y = 6
+Mouvement invalide !
+x = 7 y = 1
+x = 0 y = 7
+Mouvement invalide !
+x = 7 y = 1
+x = 1 y = 0
+Mouvement invalide !
+x = 7 y = 1
+x = 1 y = 1
+Mouvement invalide !
+x = 7 y = 1
+x = 1 y = 2
+Mouvement invalide !
+x = 7 y = 1
+x = 1 y = 3
+Mouvement invalide !
+x = 7 y = 1
+x = 1 y = 4
+Mouvement invalide !
+x = 7 y = 1
+x = 1 y = 5
+Mouvement invalide !
+x = 7 y = 1
+x = 1 y = 6
+Mouvement invalide !
+x = 7 y = 1
+x = 1 y = 7
+Mouvement invalide !
+x = 7 y = 1
+x = 2 y = 0
+Mouvement invalide !
+x = 7 y = 1
+x = 2 y = 1
+Mouvement invalide !
+x = 7 y = 1
+x = 2 y = 2
+Mouvement invalide !
+x = 7 y = 1
+x = 2 y = 3
+Mouvement invalide !
+x = 7 y = 1
+x = 2 y = 4
+Mouvement invalide !
+x = 7 y = 1
+x = 2 y = 5
+Mouvement invalide !
+x = 7 y = 1
+x = 2 y = 6
+Mouvement invalide !
+x = 7 y = 1
+x = 2 y = 7
+Mouvement invalide !
+x = 7 y = 1
+x = 3 y = 0
+Mouvement invalide !
+x = 7 y = 1
+x = 3 y = 1
+Mouvement invalide !
+x = 7 y = 1
+x = 3 y = 2
+Mouvement invalide !
+x = 7 y = 1
+x = 3 y = 3
+Mouvement invalide !
+x = 7 y = 1
+x = 3 y = 4
+Mouvement invalide !
+x = 7 y = 1
+x = 3 y = 5
+Mouvement invalide !
+x = 7 y = 1
+x = 3 y = 6
+Mouvement invalide !
+x = 7 y = 1
+x = 3 y = 7
+Mouvement invalide !
+x = 7 y = 1
+x = 4 y = 0
+Mouvement invalide !
+x = 7 y = 1
+x = 4 y = 1
+Mouvement invalide !
+x = 7 y = 1
+x = 4 y = 2
+Mouvement invalide !
+x = 7 y = 1
+x = 4 y = 3
+Mouvement invalide !
+x = 7 y = 1
+x = 4 y = 4
+Mouvement invalide !
+x = 7 y = 1
+x = 4 y = 5
+Mouvement invalide !
+x = 7 y = 1
+x = 4 y = 6
+Mouvement invalide !
+x = 7 y = 1
+x = 4 y = 7
+Mouvement invalide !
+x = 7 y = 1
+x = 5 y = 0
+Verification de la validité du coup passée !
+Passage libre !
+Ne met pas en echec !
+Attente du coup :  mouvement classique
+x = 1 y = 1
+x = 2 y = 1
+x = 7 y = 0
+x = 0 y = 0
+Verification de la validité du coup passée !
+Passage impossible !
+x = 7 y = 0
+x = 0 y = 1
+Mouvement invalide !
+x = 7 y = 0
+x = 0 y = 2
+Mouvement invalide !
+x = 7 y = 0
+x = 0 y = 3
+Mouvement invalide !
+x = 7 y = 0
+x = 0 y = 4
+Mouvement invalide !
+x = 7 y = 0
+x = 0 y = 5
+Mouvement invalide !
+x = 7 y = 0
+x = 0 y = 6
+Mouvement invalide !
+x = 7 y = 0
+x = 0 y = 7
+Mouvement invalide !
+x = 7 y = 0
+x = 1 y = 0
+Verification de la validité du coup passée !
+Passage impossible !
+x = 7 y = 0
+x = 1 y = 1
+Mouvement invalide !
+x = 7 y = 0
+x = 1 y = 2
+Mouvement invalide !
+x = 7 y = 0
+x = 1 y = 3
+Mouvement invalide !
+x = 7 y = 0
+x = 1 y = 4
+Mouvement invalide !
+x = 7 y = 0
+x = 1 y = 5
+Mouvement invalide !
+x = 7 y = 0
+x = 1 y = 6
+Mouvement invalide !
+x = 7 y = 0
+x = 1 y = 7
+Mouvement invalide !
+x = 7 y = 0
+x = 2 y = 0
+Verification de la validité du coup passée !
+Passage impossible !
+x = 7 y = 0
+x = 2 y = 1
+Mouvement invalide !
+x = 7 y = 0
+x = 2 y = 2
+Mouvement invalide !
+x = 7 y = 0
+x = 2 y = 3
+Mouvement invalide !
+x = 7 y = 0
+x = 2 y = 4
+Mouvement invalide !
+x = 7 y = 0
+x = 2 y = 5
+Mouvement invalide !
+x = 7 y = 0
+x = 2 y = 6
+Mouvement invalide !
+x = 7 y = 0
+x = 2 y = 7
+Mouvement invalide !
+x = 7 y = 0
+x = 3 y = 0
+Verification de la validité du coup passée !
+Passage impossible !
+x = 7 y = 0
+x = 3 y = 1
+Mouvement invalide !
+x = 7 y = 0
+x = 3 y = 2
+Mouvement invalide !
+x = 7 y = 0
+x = 3 y = 3
+Mouvement invalide !
+x = 7 y = 0
+x = 3 y = 4
+Mouvement invalide !
+x = 7 y = 0
+x = 3 y = 5
+Mouvement invalide !
+x = 7 y = 0
+x = 3 y = 6
+Mouvement invalide !
+x = 7 y = 0
+x = 3 y = 7
+Mouvement invalide !
+x = 7 y = 0
+x = 4 y = 0
+Verification de la validité du coup passée !
+Passage impossible !
+x = 7 y = 0
+x = 4 y = 1
+Mouvement invalide !
+x = 7 y = 0
+x = 4 y = 2
+Mouvement invalide !
+x = 7 y = 0
+x = 4 y = 3
+Mouvement invalide !
+x = 7 y = 0
+x = 4 y = 4
+Mouvement invalide !
+x = 7 y = 0
+x = 4 y = 5
+Mouvement invalide !
+x = 7 y = 0
+x = 4 y = 6
+Mouvement invalide !
+x = 7 y = 0
+x = 4 y = 7
+Mouvement invalide !
+x = 7 y = 0
+x = 5 y = 0
+Verification de la validité du coup passée !
+Passage impossible !
+x = 7 y = 0
+x = 5 y = 1
+Mouvement invalide !
+x = 7 y = 0
+x = 5 y = 2
+Mouvement invalide !
+x = 7 y = 0
+x = 5 y = 3
+Mouvement invalide !
+x = 7 y = 0
+x = 5 y = 4
+Mouvement invalide !
+x = 7 y = 0
+x = 5 y = 5
+Mouvement invalide !
+x = 7 y = 0
+x = 5 y = 6
+Mouvement invalide !
+x = 7 y = 0
+x = 5 y = 7
+Mouvement invalide !
+x = 7 y = 0
+x = 6 y = 0
+La case de destination est dejà occupée par une de vos pièce !
+x = 7 y = 0
+x = 6 y = 1
+La case de destination est dejà occupée par une de vos pièce !
+x = 7 y = 0
+x = 6 y = 2
+La case de destination est dejà occupée par une de vos pièce !
+x = 7 y = 0
+x = 6 y = 3
+La case de destination est dejà occupée par une de vos pièce !
+x = 7 y = 0
+x = 6 y = 4
+La case de destination est dejà occupée par une de vos pièce !
+x = 7 y = 0
+x = 6 y = 5
+La case de destination est dejà occupée par une de vos pièce !
+x = 7 y = 0
+x = 6 y = 6
+La case de destination est dejà occupée par une de vos pièce !
+x = 7 y = 0
+x = 6 y = 7
+La case de destination est dejà occupée par une de vos pièce !
+x = 7 y = 0
+x = 7 y = 0
+La case de destination est dejà occupée par une de vos pièce !
+x = 7 y = 0
+x = 7 y = 1
+La case de destination est dejà occupée par une de vos pièce !
+x = 7 y = 0
+x = 7 y = 2
+La case de destination est dejà occupée par une de vos pièce !
+x = 7 y = 0
+x = 7 y = 3
+La case de destination est dejà occupée par une de vos pièce !
+x = 7 y = 0
+x = 7 y = 4
+La case de destination est dejà occupée par une de vos pièce !
+x = 7 y = 0
+x = 7 y = 5
+La case de destination est dejà occupée par une de vos pièce !
+x = 7 y = 0
+x = 7 y = 6
+La case de destination est dejà occupée par une de vos pièce !
+x = 7 y = 0
+x = 7 y = 7
+La case de destination est dejà occupée par une de vos pièce !
+x = 7 y = 1
+x = 0 y = 0
+Mouvement invalide !
+x = 7 y = 1
+x = 0 y = 1
+Mouvement invalide !
+x = 7 y = 1
+x = 0 y = 2
+Mouvement invalide !
+x = 7 y = 1
+x = 0 y = 3
+Mouvement invalide !
+x = 7 y = 1
+x = 0 y = 4
+Mouvement invalide !
+x = 7 y = 1
+x = 0 y = 5
+Mouvement invalide !
+x = 7 y = 1
+x = 0 y = 6
+Mouvement invalide !
+x = 7 y = 1
+x = 0 y = 7
+Mouvement invalide !
+x = 7 y = 1
+x = 1 y = 0
+Mouvement invalide !
+x = 7 y = 1
+x = 1 y = 1
+Mouvement invalide !
+x = 7 y = 1
+x = 1 y = 2
+Mouvement invalide !
+x = 7 y = 1
+x = 1 y = 3
+Mouvement invalide !
+x = 7 y = 1
+x = 1 y = 4
+Mouvement invalide !
+x = 7 y = 1
+x = 1 y = 5
+Mouvement invalide !
+x = 7 y = 1
+x = 1 y = 6
+Mouvement invalide !
+x = 7 y = 1
+x = 1 y = 7
+Mouvement invalide !
+x = 7 y = 1
+x = 2 y = 0
+Mouvement invalide !
+x = 7 y = 1
+x = 2 y = 1
+Mouvement invalide !
+x = 7 y = 1
+x = 2 y = 2
+Mouvement invalide !
+x = 7 y = 1
+x = 2 y = 3
+Mouvement invalide !
+x = 7 y = 1
+x = 2 y = 4
+Mouvement invalide !
+x = 7 y = 1
+x = 2 y = 5
+Mouvement invalide !
+x = 7 y = 1
+x = 2 y = 6
+Mouvement invalide !
+x = 7 y = 1
+x = 2 y = 7
+Mouvement invalide !
+x = 7 y = 1
+x = 3 y = 0
+Mouvement invalide !
+x = 7 y = 1
+x = 3 y = 1
+Mouvement invalide !
+x = 7 y = 1
+x = 3 y = 2
+Mouvement invalide !
+x = 7 y = 1
+x = 3 y = 3
+Mouvement invalide !
+x = 7 y = 1
+x = 3 y = 4
+Mouvement invalide !
+x = 7 y = 1
+x = 3 y = 5
+Mouvement invalide !
+x = 7 y = 1
+x = 3 y = 6
+Mouvement invalide !
+x = 7 y = 1
+x = 3 y = 7
+Mouvement invalide !
+x = 7 y = 1
+x = 4 y = 0
+Mouvement invalide !
+x = 7 y = 1
+x = 4 y = 1
+Mouvement invalide !
+x = 7 y = 1
+x = 4 y = 2
+Mouvement invalide !
+x = 7 y = 1
+x = 4 y = 3
+Mouvement invalide !
+x = 7 y = 1
+x = 4 y = 4
+Mouvement invalide !
+x = 7 y = 1
+x = 4 y = 5
+Mouvement invalide !
+x = 7 y = 1
+x = 4 y = 6
+Mouvement invalide !
+x = 7 y = 1
+x = 4 y = 7
+Mouvement invalide !
+x = 7 y = 1
+x = 5 y = 0
+Verification de la validité du coup passée !
+Passage libre !
+Ne met pas en echec !
+Attente du coup :  mouvement classique
+x = 6 y = 1
+x = 5 y = 1
+Verification de la validité du coup passée !
+Passage libre !
+Ne met pas en echec !
+Piece déplacée !
+C'est au joueur blanc de jouer
+x = 0 y = 0
+x = 0 y = 0
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 0
+x = 0 y = 1
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 0
+x = 0 y = 2
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 0
+x = 0 y = 3
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 0
+x = 0 y = 4
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 0
+x = 0 y = 5
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 0
+x = 0 y = 6
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 0
+x = 0 y = 7
+La case de destination est dejà occupée par une de vos pièce !
+x = 0 y = 0
+x = 1 y = 0
+Verification de la validité du coup passée !
+Passage libre !
+Ne met pas en echec !

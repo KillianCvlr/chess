@@ -181,14 +181,12 @@ void Echiquier::pose_piece(Piece *p, Square *pos) {
 }
 
 Piece* Echiquier::deplace_piece( Square* CaseDeb, Square* CaseFin) {
-    cout << "entree deplacepiece echiquier" << endl;
     Piece *pieceSortante = CaseFin->getPiece();
     if (pieceSortante != nullptr){
         pieceSortante->set_etat(Capture);
     }
     this->pose_piece(CaseDeb->getPiece(), CaseFin);
     this->pose_piece(nullptr, CaseDeb);
-    cout << pgnPieceName(CaseFin->getPiece()->getIcone(), 1, 1)<< endl ;
     return pieceSortante;
 }
 
@@ -199,7 +197,6 @@ Piece* Echiquier::deplace_piece(const Pos posDebut, const Pos posFin){
 }
 
 void Echiquier::promotion(Piece *piece, const string type){
-    cout << "Entree dans la promo" << endl;
     couleur_t couleur = piece->getCouleur();
     int nbDeplacement = piece->getNbDeplacement();
     Square* caseCible = piece->getSquare();
@@ -218,9 +215,7 @@ void Echiquier::promotion(Piece *piece, const string type){
     } else{
         this->pieces[couleur].push_back((new Cavalier(couleur, taille +1, this->plateau[x0][y0])));
     }
-    cout << "Piece remplacee !" << endl  ;   
     piece->set_etat(Promue);
     this->pieces[couleur].back()->setNbDeplacement(nbDeplacement);
     this->pose_piece(this->pieces[couleur].back(), this->plateau[x0][y0]);
-    cout << "Fin promotion !" << endl;
 }

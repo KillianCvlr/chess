@@ -4,7 +4,7 @@
 
 Jeu::Jeu ()
     : echiquier(new Echiquier(true)), couleur_joueur(Blanc)  {
-        cout << "La Partie a été créée !" << endl;
+        clog << "La Partie a été créée !" << endl;
     }
 
 Jeu::~Jeu () {}
@@ -117,7 +117,7 @@ bool Jeu::passage_possible(Pos posDeb, Pos posFin){
 }
 
 void Jeu::affichage_fin_jeu(string resultat) {
-    cout << this->echiquier->canonicalPosition() << " " << resultat << endl;
+    clog << this->echiquier->canonicalPosition() << " " << resultat << endl;
 }
 
 bool Jeu::est_capturable(Pos pos, couleur_t c){
@@ -210,7 +210,7 @@ bool Jeu::petit_roque(couleur_t c) {
             && this->echiquier->getPiece(Pos("e1")) != nullptr
             && this->echiquier->getPiece(Pos("h1")) != nullptr){
             if(!this->deplace_piece(Pos("e1"), Pos("g1"), true)){
-                cout << "Movement du roi impossible" << endl;
+                clog << "Movement du roi impossible" << endl;
                 return false;
             }
             this->deplace_piece(Pos("h1"), Pos("f1"), true);
@@ -223,7 +223,7 @@ bool Jeu::petit_roque(couleur_t c) {
             && this->echiquier->getPiece(Pos("e8")) != nullptr
             && this->echiquier->getPiece(Pos("h8")) != nullptr){
             if(!this->deplace_piece(Pos("e8"), Pos("g8"), true)){
-                cout << "Mouvement du roi impossible" << endl;
+                clog << "Mouvement du roi impossible" << endl;
                 return false;
             }
             this->deplace_piece(Pos("h8"), Pos("f8"), true);
@@ -231,7 +231,7 @@ bool Jeu::petit_roque(couleur_t c) {
         }
     }
 
-    cout << "Petit roque impossible" << endl;
+    clog << "Petit roque impossible" << endl;
     return false;
 }
 
@@ -243,7 +243,7 @@ bool Jeu::grand_roque(couleur_t c) {
             && this->echiquier->getPiece(Pos("e1")) != nullptr
             && this->echiquier->getPiece(Pos("a1")) != nullptr){
             if(!this->deplace_piece(Pos("e1"), Pos("c1"), true)){
-                cout << "Mouvement du roi impossible !" << endl;
+                clog << "Mouvement du roi impossible !" << endl;
                 return false;
             }
             this->deplace_piece(Pos("a1"), Pos("d1"), true);
@@ -256,7 +256,7 @@ bool Jeu::grand_roque(couleur_t c) {
             && this->echiquier->getPiece(Pos("e8")) != nullptr
             && this->echiquier->getPiece(Pos("a8")) != nullptr){
             if(!this->deplace_piece(Pos("e8"), Pos("c8"), true)){
-                cout << "Mouvement du roi impossible !" << endl;
+                clog << "Mouvement du roi impossible !" << endl;
                 return false;
             }
             this->deplace_piece(Pos("a8"), Pos("d8"), true);
@@ -264,7 +264,7 @@ bool Jeu::grand_roque(couleur_t c) {
         }
     }
 
-    cout << "Grand roque impossible" << endl;
+    clog << "Grand roque impossible" << endl;
     return false;
 }
 
@@ -283,22 +283,17 @@ bool Jeu::promotion_possible(Pos posFin){
 }
 
 bool Jeu::deplace_piece(Pos posDeb, Pos posFin, bool continueJeu) {
-    cout << "======= TEST DU COUP =======" << endl;
-    cout << "Origine : ";
     posDeb.affiche_xy() ;
-    cout << "Fin : " ;
     posFin.affiche_xy();
     Piece *pieceEnDeplacement = echiquier->getPiece(posDeb);
     Piece *pieceADestination = echiquier->getPiece(posFin);
     Square *CaseDeb = echiquier->getSquare(posDeb);
     Square *CaseFin = echiquier->getSquare(posFin);
     if (pieceEnDeplacement == nullptr){
-        cout << "Il n'y a pas de piece a cette position !" << endl;
         return false;
     }
 
     if (pieceEnDeplacement->getCouleur() != couleur_joueur){
-        cout << "Pièce de la mauvaise couleur !" << endl;
         return false;
     }
 
@@ -306,13 +301,11 @@ bool Jeu::deplace_piece(Pos posDeb, Pos posFin, bool continueJeu) {
     const char *NomDeClasse = typeid(*pieceEnDeplacement).name() + 1;
     if (strcmp(NomDeClasse, "Pion") == 0){
         if (this->prise_en_passant(posDeb, posFin)){
-            cout << "Prise en passant" << endl;
             Square* casePionCapture = this->echiquier->getSquare(Pos(getDernierMouv().substr(2,2)));
             Piece* pionCapture = casePionCapture->getPiece();
             this->echiquier->pose_piece(nullptr, casePionCapture );
             if(met_en_echec(posDeb, posFin, couleur_joueur)){
                 this->echiquier->pose_piece(pionCapture, casePionCapture );
-                cout << "Prise en passant met en echec !";
                 return false;
             }
             if(!continueJeu){
@@ -325,7 +318,6 @@ bool Jeu::deplace_piece(Pos posDeb, Pos posFin, bool continueJeu) {
             return true;
         }
     }
-    cout << "Pas de prise en passant" << endl;
 
     //Validité du coup
     if(!(strcmp(NomDeClasse, "Roi") == 0 )){
@@ -333,27 +325,27 @@ bool Jeu::deplace_piece(Pos posDeb, Pos posFin, bool continueJeu) {
             if (pieceADestination->getCouleur() != pieceEnDeplacement->getCouleur()){
                 if (strcmp(NomDeClasse, "Pion") == 0){
                     if (!pieceEnDeplacement->mouvement_legal(*echiquier->getSquare(posFin), true)) {
-                        cout << "Mouvement invalide !" << endl;
+                        clog << "Mouvement invalide !" << endl;
                         return false;
                     }
                 }else{
                     if (!pieceEnDeplacement->mouvement_legal(*echiquier->getSquare(posFin))) {
-                        cout << "Mouvement invalide !" << endl;
+                        clog << "Mouvement invalide !" << endl;
                         return false;
                     }
                 }
             } else{
-                cout << "La case de destination est dejà occupée par une de vos pièce !" << endl;
+                clog << "La case de destination est dejà occupée par une de vos pièce !" << endl;
                 return false;
             }
         }else{
             if (!pieceEnDeplacement->mouvement_legal(*echiquier->getSquare(posFin))) {
-                cout << "Mouvement invalide !" << endl;
+                clog << "Mouvement invalide !" << endl;
                 return false;
             }
         }
     }
-    cout << "Verification de la validité du coup passée !" << endl;
+    clog << "Verification de la validité du coup passée !" << endl;
     //Passage libre
     if ((strcmp(NomDeClasse, "Pion") == 0
         || strcmp(NomDeClasse, "Roi") == 0
@@ -361,17 +353,17 @@ bool Jeu::deplace_piece(Pos posDeb, Pos posFin, bool continueJeu) {
         || strcmp(NomDeClasse, "Fou") == 0
         || strcmp(NomDeClasse, "Tour") == 0)){
         if (!this->passage_possible(posDeb, posFin)){
-            cout << "Passage impossible !" << endl;
+            clog << "Passage impossible !" << endl;
             return false;
         }
     }
-    cout << "Passage libre !" << endl;
+    clog << "Passage libre !" << endl;
     // Le coup met en echec son roi
     if (this->met_en_echec(posDeb, posFin ,this->getJoueur())){
-        cout << "Ce coup vous met en échec !" << endl;
+        clog << "Ce coup vous met en échec !" << endl;
         return false;
     }
-    cout << "Ne met pas en echec !" << endl;
+    clog << "Ne met pas en echec !" << endl;
 
     //On s'arrete là pour les test, pas de déplacement
     if(!continueJeu) return true;
@@ -379,18 +371,18 @@ bool Jeu::deplace_piece(Pos posDeb, Pos posFin, bool continueJeu) {
     //Déplacement de la pièce
     this->echiquier->deplace_piece(CaseDeb, CaseFin);
     pieceEnDeplacement->incr_nb_deplacement();
-    cout << "Piece déplacée !" << endl;
+    clog << "Piece déplacée !" << endl;
 
     //Vérifie si le coup amène un pion à la promotion
     if (this->promotion_possible(posFin)){
-        cout << "Promotion disponible !\n Attente de la promotion (Q(ueen) R(ook) B(ishop) K(night)) :" << endl;
+        clog << "Promotion disponible !\n Attente de la promotion (Q(ueen) R(ook) B(ishop) K(night)) :" << endl;
 
         string prom_input;
         getline(cin, prom_input);
 
         while (!promotion_valide(prom_input)){
-            cout << "L'input n'est pas valide !" << endl;
-            cout << "Attente de la promotion (Q(ueen) R(ook) B(ishop) K(night)) :" << endl;
+            clog << "L'input n'est pas valide !" << endl;
+            clog << "Attente de la promotion (Q(ueen) R(ook) B(ishop) K(night)) :" << endl;
             getline(cin, prom_input);
         }
 
@@ -406,18 +398,18 @@ bool Jeu::coup() {
     bool stop = false;
     bool echec = false;
 
-    cout << "C'est au joueur " << 
+    clog << "C'est au joueur " << 
             ((couleur_joueur == Blanc) ? "blanc " : "noir ") 
             << "de jouer" << endl;
 
     do {
         do {
             if (echec_au_roi(this->couleur_joueur)){
-                cout << "Echec !"  << endl;
+                clog << "Echec !"  << endl;
                 echec = true;
             }
             if (mat(couleur_joueur)){
-                cout << "Mat !" << endl;
+                clog << "Mat !" << endl;
                 if (echec){
                     if (this->getJoueur() == Noir){
                         this->affichage_fin_jeu("0-1");
@@ -429,27 +421,27 @@ bool Jeu::coup() {
                 this->affichage_fin_jeu("1/2-1/2");
                 return true;
             }
-            cout << "Attente du coup :  ";
+            clog << "Attente du coup :  ";
             getline(cin, input);
 
             while (!entree_valide(input)) {
-                cout << "L'entrée n'est pas valide !" << endl;
-                cout << "Attente du coup :  ";
+                clog << "L'entrée n'est pas valide !" << endl;
+                clog << "Attente du coup :  ";
                 getline(cin, input);
             }
             //Les commandes faisant s'arreter la partie
             if (entree_sortie(input)){
-                cout << "quit" << endl;
+                clog << "quit" << endl;
                 this->affichage_fin_jeu("?-?");
                 return true;
 
             } else if (entree_egalite(input)){
-                cout << "draw" << endl;
+                clog << "draw" << endl;
                 this->affichage_fin_jeu("1/2-1/2");
                 return true;
 
             } else if (entree_abandon(input)) {
-                cout << "resign" << endl;
+                clog << "resign" << endl;
                 if (this->getJoueur() == Blanc){
                     this->affichage_fin_jeu("0-1");
                 }else{
@@ -457,16 +449,19 @@ bool Jeu::coup() {
                 }
                 return true;
             //Les commandes classiques du jeu
+
+            }else if (entree_show(input)){
+                this->affiche();
             }else if (entree_petit_rock(input)){
-                cout << "petit roque" << endl;
+                clog << "petit roque" << endl;
                 stop = this->petit_roque(this->couleur_joueur);
 
             }else if (entree_grand_rock(input)){
-                cout << "grand roque" << endl;
+                clog << "grand roque" << endl;
                 stop = this->grand_roque(this->couleur_joueur);
 
             }else{
-                cout << "mouvement classique" << endl;
+                clog << "mouvement classique" << endl;
                 stop = this->deplace_piece((Pos(input.substr(0,2))),
                                        Pos(input.substr(2,2))
                 );
