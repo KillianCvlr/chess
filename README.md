@@ -42,6 +42,7 @@ Suivez les instructions affichées à l'écran pour entrer les mouvements et int
     - Revoir la promotion
     - Echec et math implémenté mais à revoir
     - Path
+    - Faire une GUI
 
 ## Documentation
     La documentation est dans le dossier docs.
